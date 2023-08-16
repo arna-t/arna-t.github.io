@@ -6,6 +6,19 @@
 - Analysis is to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country. - Covid19 deaths data is the cumulative number of confirmed cases, per day, in each Country. World Happiness report consists of various life factors, scored by the people living in each country.
 - I used Python packages: numpy, pandas, matlib and seaborn.
 
+
+### Covid19 deaths statistics (in relation to China)
+  ![](/images/plot1.png)
+
+### Covid 19 deaths in a week (China) for a good measure
+
+  ![](/images/plot2.png)
+
+### Correlation between Covid19 death rate and country happiness variables
+
+   ![](/images/correlation.png)
+
+
 [Project 2: Amazon reviews on Apple AirPods sentiment analysis](https://github.com/arna-t/Amazon_reviews_exploratory_analysis)
 
 - Dataset, taken from Kaggle.com, contains customer reviews on Apple Airpods on Amazon.
