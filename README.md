@@ -30,7 +30,7 @@
    
 ### Maximum death rate vs Health life expectancy
 
-  ![]([/images/death_rate_health.png) 
+  ![]([images/death_rate_health.png) 
 
     
 
