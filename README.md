@@ -12,7 +12,7 @@
 
 ### Covid19 deaths in a week (China) for a good measure
 
-  ![](/images/plot2.png)
+  ![](/images/plot3.png)
   
 
 ### Correlation between Covid19 death rate and country happiness variables
@@ -31,9 +31,9 @@
   ![](/images/rating.png)
 
 
-  ### Positive reviews world-cloud
+  ### World-cloud with positive reviews 
   ![](/images/positive.png)
 
 
-  ### Negative reviews world-cloud
+  ### World-cloud with negative reviews 
   ![](/images/negative.png)
