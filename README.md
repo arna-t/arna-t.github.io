@@ -1,4 +1,3 @@
-# Arna's Data Analytics portfolio
 
 [Project 1: Covid19 Deaths and Happiness report data analysis](https://github.com/arna-t/Covid19_deaths_Happiness_report)
 
@@ -7,12 +6,14 @@
 - I used Python packages: numpy, pandas, matlib and seaborn.
 
 
-### Covid19 deaths statistics (in relation to China)
+### Covid19 deaths statistics (in relation to China) for 4-months period.
   ![](/images/plot1.png)
 
-### Covid 19 deaths in a week (China) for a good measure
+
+### Covid19 deaths in a week (China) for a good measure
 
   ![](/images/plot2.png)
+  
 
 ### Correlation between Covid19 death rate and country happiness variables
 
@@ -21,6 +22,18 @@
 
 [Project 2: Amazon reviews on Apple AirPods sentiment analysis](https://github.com/arna-t/Amazon_reviews_exploratory_analysis)
 
-- Dataset, taken from Kaggle.com, contains customer reviews on Apple Airpods on Amazon.
-- Perform exploratory data analysis and plot word-cloud.
-- Apply python libraries to import and visualize dataset.
+- A dataset, taken from Kaggle.com, contains customer reviews on Apple Airpods on Amazon.
+- Applied python libraries to import and visualize dataset.
+- Performed exploratory data analysis and plot word-cloud.
+- In process: Sentiment Analysis...
+
+  ### Customer rating of Airpods (5 - high, 1-low)
+  ![](/images/rating.png)
+
+
+  ### Positive reviews world-cloud
+  ![](/images/positive.png)
+
+
+  ### Negative reviews world-cloud
+  ![](/images/negative.png)
