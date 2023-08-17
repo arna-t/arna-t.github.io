@@ -12,12 +12,20 @@
 
 ### Covid19 deaths in a week (China) for a good measure
 
-  ![](/images/plot3.png)
+  ![](/images/plot2.png)
   
 
 ### Correlation between Covid19 death rate and country happiness variables
 
    ![](/images/correlation.png)
+
+### Maximum death rate vs GDP
+
+   ![](/images/plot3.png)
+
+### Maximum death rate vs Freedom to make life choices
+
+   ![](/images/plot4.png)
 
 
 ## [Project 2: Amazon reviews on Apple AirPods sentiment analysis](https://github.com/arna-t/Amazon_reviews_exploratory_analysis)
