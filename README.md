@@ -20,7 +20,7 @@
 
    ![](/images/correlation.png)
 
-### Happiness score vs GDP per capita (the wealthier the country, the happier its residents)
+### Happiness score vs GDP per capita
 
    ![](/images/plot3.png)
 
@@ -29,9 +29,9 @@
    ![](/images/death_rate_gdp.png)
    
 ### Maximum death rate vs Health life expectancy
-
-  ![]([images/death_rate_health.png) 
-
+   
+   ![]([/images/death_rate_health.png)
+   
     
 
 ## [Project 2: Amazon reviews on Apple AirPods exploratory analysis](https://github.com/arna-t/Amazon_reviews_exploratory_analysis)
